@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Momento](https://github.com/timmy-time/Momento)
+- 🔭 I’m currently working on [Momento](https://github.com/momentodevs/Momento)
 - 🌱 I’m currently learning Python and SQL
 - 👯 I’m looking to collaborate on any open source projects!
-- 🤔 I’m looking for help with Discord.py, 
-- 💬 Ask me about [Momento](https://github.com/timmy-time/Momento)
+- 💬 Ask me about [Momento](https://github.com/momentodevs/Momento)
 - 📫 How to reach me: [Discord Server](https://discord.gg/wfsSRp8s7J)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Windows is poo poo, linux is the future :P
