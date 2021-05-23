@@ -33,5 +33,6 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=timmy-time&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My Stats" />
 </a>
 <figure><embed src="https://wakatime.com/share/@b920b284-3cde-4cd4-b72e-f7f22d050b16/8e2116d2-19c7-4a26-b1bd-92aab387f78e.svg"></embed></figure>
+<img align="center" src="https://wakatime.com/share/@b920b284-3cde-4cd4-b72e-f7f22d050b16/8e2116d2-19c7-4a26-b1bd-92aab387f78e.svg" alt="Wakatime">
 
 
