@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [Momento](https://github.com/momentodevs/Momento)
-- 🌱 I’m currently learning Python and SQL
+- 🌱 I’m currently learning Angular and Efficient NodeJS Backend APIs
 - 👯 I’m looking to collaborate on any open source projects!
 - 💬 Ask me about [Momento](https://github.com/momentodevs/Momento)
 - 📫 How to reach me: [Discord Server](https://discord.gg/wfsSRp8s7J)
