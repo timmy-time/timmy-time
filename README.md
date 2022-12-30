@@ -8,9 +8,13 @@ I've been learning how to code for 5 years now, originally starting out with HTM
 
 * 🖥️  See my portfolio at [My Portfolio](http://timmygreen.com)
 * ✉️  You can contact me at [tim@timmygreen.com](mailto:tim@timmygreen.com)
-* 🚀  I'm currently working on [Momento](http://discord.gg)
+* 🚀  I'm currently working on [Minecraft, FiveM and Rust Servers]([https://discord.gg/4ntfrtKESD])
 * 🧠  I'm learning Sveltekit
 * 🤝  I'm open to collaborating on interesting projects
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/timmytime"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 <a href="https://www.github.com/timmy-time" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/timmy-time?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/@PrisonYt" target="_blank" rel="noreferrer"><img
@@ -60,6 +64,3 @@ src="https://img.shields.io/twitch/status/prisonyt?logo=twitchsx&style=for-the-b
 
 <div width="100%" align="center"><a href="https://github.com/timmy-time/momento" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=timmy-time&repo=momento&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/timmy-time/my-sveltekit-pokedex" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=timmy-time&repo=my-sveltekit-pokedex&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-### Support Me
-
-<a href="https://www.buymeacoffee.com/timmytime"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
