@@ -8,7 +8,7 @@ I've been learning how to code for 5 years now, originally starting out with HTM
 
 * 🖥️  See my portfolio at [My Portfolio](http://timmygreen.com)
 * ✉️  You can contact me at [tim@timmygreen.com](mailto:tim@timmygreen.com)
-* 🚀  I'm currently working on [Minecraft, FiveM and Rust Servers]([https://discord.gg/4ntfrtKESD])
+* 🚀  I'm currently working on [Minecraft, FiveM and Rust Servers](https://discord.gg/4ntfrtKESD)
 * 🧠  I'm learning Sveltekit
 * 🤝  I'm open to collaborating on interesting projects
 
