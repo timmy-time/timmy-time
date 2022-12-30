@@ -18,7 +18,7 @@ I've been learning how to code for 5 years now, originally starting out with HTM
 
 <a href="https://www.github.com/timmy-time" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/timmy-time?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/@PrisonYt" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/@PrisonYt?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/@YtPrison?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.twitch.tv/prisonyt" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/prisonyt?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 ### Skills
