@@ -16,11 +16,12 @@ I've been learning how to code for 5 years now, originally starting out with HTM
 
 <a href="https://www.buymeacoffee.com/timmytime"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
-<a href="https://www.github.com/timmy-time" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/timmy-time?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/@YtPrison" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/@YtPrison?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.twitch.tv/prisonyt" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/prisonyt?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+<a href="https://www.github.com/timmy-time" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/github/followers/timmy-time?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.twitter.com/@YtPrison" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/twitter/follow/@YtPrison?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.twitch.tv/prisonyt" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/twitch/status/prisonyt?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 ### Skills
 
 <p align="left">
