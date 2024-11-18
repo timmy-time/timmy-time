@@ -38,6 +38,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/timmy-time/timmy-time/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/timmy-time/timmy-time/refs/heads/output/snake.svg" alt="Snake animation" />
 
 ###
